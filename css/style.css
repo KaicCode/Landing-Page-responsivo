@@ -109,7 +109,6 @@ footer img {
 footer {
     display: flex;
     justify-content: center;
-
 }
 
 footer a {
@@ -121,7 +120,6 @@ footer a {
     right: 1300px;
     display: flex;
     justify-content: center;
-    /* margin: 0 auto; */
     margin-left: auto;
     margin-right: auto;
 
@@ -133,9 +131,4 @@ footer a {
     flex-direction: column;
     line-height: 15px;
     color: rgb(95, 184, 112);
-
-}
-
-#fundo{
-    
 }
